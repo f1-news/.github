@@ -1,2 +1,2 @@
 # .github
-f1 news profile
+f1 news community
